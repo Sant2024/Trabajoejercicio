@@ -73,7 +73,7 @@ formulario3.addEventListener("submit", evento => {
 
         } else if (genero == "mujer") {
 
-            parrafo3.innerHTML = "reclamar cerveza y  pizza hawaiana"
+            parrafo3.innerHTML = "reclamar jugo y  pizza hawaiana"
 
         }
 
